@@ -1,4 +1,7 @@
+streamlit
+pandas
 supabase
 python-dotenv
 thefuzz
-python-Levenshtein
+requests
+beautifulsoup4
